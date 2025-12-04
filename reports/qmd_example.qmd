@@ -5,9 +5,11 @@ format:
     html:
         toc: true
         toc-depth: 2
+        fig-pos: H
     pdf:
         toc: true
         toc-depth: 2
+        fig-pos: H
 bibliography: references.bib
 editor: source
 execute:
